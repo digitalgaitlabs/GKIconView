@@ -31,6 +31,7 @@ GKIconView(
     colour2: Color.teal.opacity(0.7),
     colour3: Color.cyan.opacity(0.6)
 )
+```
 
 ## Installation
 To install GKIconView:
