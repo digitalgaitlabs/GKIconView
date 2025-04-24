@@ -14,9 +14,8 @@ Configurable scale and overlay fill percentages
 
 
 # Usage
-swift
-Copy
-Edit
+
+<code>
 GKIconView(
     percentage1: 0.4,
     percentage2: 0.3,
@@ -26,6 +25,7 @@ GKIconView(
     colour2: Color.teal.opacity(0.7),
     colour3: Color.cyan.opacity(0.6)
 )
+</code>
 
 # Parameters
 
