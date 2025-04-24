@@ -31,3 +31,15 @@ GKIconView(
     colour2: Color.teal.opacity(0.7),
     colour3: Color.cyan.opacity(0.6)
 )
+
+## Installation
+To install GKIconView:
+
+- Copy the file GKIconView.swift into your SwiftUI project.
+- Import SwiftUI where needed.
+- Use the GKIconView in your views with your chosen SF Symbol and colors.
+- No external dependencies are required.
+
+## License
+This project is licensed under the MIT License.
+You may use, modify, and distribute it freely.
